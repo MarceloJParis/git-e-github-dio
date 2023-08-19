@@ -3,6 +3,4 @@
 | Aula | Resumos|
 | -----|--------|
 | Beixtera | asdasdas |
-| asdadasda | sdasdasd |
-
-# Tomale
+| asdadasda | sdasdasd|
